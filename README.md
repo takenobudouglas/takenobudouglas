@@ -10,4 +10,4 @@ Sou programador Front - end atualmente aprendendo e criando projetos com tecnolo
 
 
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" />
