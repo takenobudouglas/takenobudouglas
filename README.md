@@ -13,4 +13,4 @@ Sou programador Front - end atualmente aprendendo e criando projetos com tecnolo
 
 
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" />
+<a href="https://www.linkedin.com/in/douglas-marcel-6323071a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" /></a>
