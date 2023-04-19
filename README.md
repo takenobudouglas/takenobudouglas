@@ -7,3 +7,7 @@ Sou programador Front - end atualmente aprendendo e criando projetos com tecnolo
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo" />
 
 [![takenobudouglas](https://github-readme-stats.vercel.app/api/top-langs/?username=takenobudouglas)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
