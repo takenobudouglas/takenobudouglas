@@ -13,4 +13,4 @@ Sou programador Front - end atualmente aprendendo e criando projetos com tecnolo
 
 
 
-<a href="https://https://www.linkedin.com/in/douglas-takenobu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" /></a>
+<a href="https://www.linkedin.com/in/douglas-takenobu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" /></a>
