@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou programador Front - end atualmente aprendendo e criando projetos com tecnologias e constante aprendizado.
+Sou um profissional proativa, com fortes habilidades de liderança e trabalho em equipe. Tenho uma abordagem orientada a resultados, com a capacidade de aprender e me adaptar rapidamente a novos desafios e tecnologias. Minha experiência me permite contribuir significativamente para o sucesso dos projetos, promovendo um ambiente colaborativo e produtivo. Estou comprometido em ajudar minha equipe a crescer, alcançando objetivos de forma eficiente e com alta qualidade, mantendo uma visão estratégica alinhada às necessidades do negócio.
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
