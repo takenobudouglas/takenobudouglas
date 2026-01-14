@@ -1,8 +1,9 @@
 ### Hi there, Me chamo Douglas!👋
 
-Profissional de tecnologia em transição para Qualidade de Software (QA), com experiência em suporte técnico e foco atual em testes manuais e automação com Cypress e JavaScript.
-Formado em Análise e Desenvolvimento de Sistemas e cursando MBA em Engenharia de Software, aplico práticas ágeis (Scrum/Kanban) e versionamento com Git/GitHub em projetos pessoais.
-Busco consolidar carreira em QA, contribuindo para processos de teste mais eficientes e entregas digitais confiáveis
+“Analista de QA em transição de suporte técnico para testes de software. Experiência em análise de falhas e documentação de incidentes, aplicando automação com Cypress/JavaScript em projetos práticos disponíveis no GitHub. Formação em ADS e MBA em Engenharia de Software em andamento.”
+
+- Incluindo prática real e GitHub.
+ “Automação de cenários com Cypress/JavaScript, disponíveis no GitHub. Experiência em análise de falhas e documentação de bugs.”
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
