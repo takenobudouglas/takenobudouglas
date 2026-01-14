@@ -1,6 +1,8 @@
 ### Hi there, Me chamo Douglas!👋
 
-Sou um profissional proativo, com fortes habilidades e trabalho em equipe. Tenho uma abordagem orientada a resultados, com a capacidade de aprender rapidamente a novos desafios e tecnologias. Minha experiência me permite contribuir significativamente para o sucesso dos projetos, promovendo um ambiente colaborativo e produtivo. Estou comprometido em ajudar minha equipe a crescer, alcançando objetivos de forma eficiente e com alta qualidade, mantendo uma visão estratégica alinhada às necessidades do negócio.
+Profissional de tecnologia em transição para Qualidade de Software (QA), com experiência em suporte técnico e foco atual em testes manuais e automação com Cypress e JavaScript.
+Formado em Análise e Desenvolvimento de Sistemas e cursando MBA em Engenharia de Software, aplico práticas ágeis (Scrum/Kanban) e versionamento com Git/GitHub em projetos pessoais.
+Busco consolidar carreira em QA, contribuindo para processos de teste mais eficientes e entregas digitais confiáveis
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
